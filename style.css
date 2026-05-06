@@ -1,0 +1,15 @@
+.hero
+{
+    background: linear-gradient(90deg, #5abb9a, #021524);
+    color: white;
+    padding: 100px
+}
+.btn-custom {
+    background-color: #333;
+    color: white;
+    font-weight: 500;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
